@@ -1,5 +1,5 @@
 # Google Drive Downloader
-Small python script I use to download large files google drive because downloading via broswer is slow and crashes often with big files. Just paste a share link (must be accessible to anyone with link) and output file name.
+Small python script I made to download large files from google drive because downloading via broswer is slow and often crashes. Just paste a share link (must be accessible to anyone with link) and output file name.
 
 ## What script does
 - Converts a shareable Google Drive link and converts it to a direct download link
